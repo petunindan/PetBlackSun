@@ -39,6 +39,7 @@ Bounty hunter (requires Palace Hutt)
 ## General information
 The mod should run on all versions of the game, but if you have any errors, you will have to patch the game to the latest version.  
 I recommend the Steam version of the game.
+Maps are edited with Petroglyph Editor.
 
 ## Release history
 First release: 10 April 2010  
