@@ -2,6 +2,7 @@
 
 ## Description
 This mod allows to play as unplayable faction - Pirates.
+
 Pirates is playable in the galactic conquest (all galaxies were reworked, and now Pirates are present in all gc's), in the quick ground and space battle (bot support included.)
 
 ## How to choose pirate faction in all game modes
@@ -14,41 +15,59 @@ All pirate units available, including:
 
 ### Space
 Z95 Fighter
+
 Pirate Fighter
+
 V-Wing (fighter of times of the clones)
+
 The patrol boat IPV-1
+
 Pirate Frigate "Interceptor"
+
 Class cruiser "Venator" (frigate of times of the clones)
 
 ### Ground
 The Platoon Of Pirates
+
 Missile Squad
+
 Marsh Glider Team
+
 Pirate Skiff
+
 Pirate Walker
 
 ### Structure
 Pirates Base
+
 Pirate Asteroid Base
 
 ### Heroes
 I decided to add some heroes to the pirates, because of the huge imbalance
+
 Fleet commander Ackbar (Space character)
+
 Assassin Boba Fett (Space and ground hero)
+
 Bounty hunter (requires Palace Hutt)
 
 ## General information
 The mod should run on all versions of the game, but if you have any errors, you will have to patch the game to the latest version.
+
 I recommend the Steam version of the game.
 
 ## Release history
 First release: 10 April 2010
+
 V1.3: 18 February 2011
+
 Final version: 24 MArch 2013
 
 ## Credits:
 Mod by Petunindan
+
 Beta testers: Z@C
+
 Website: grandbiz.ru
 
 ## License
