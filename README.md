@@ -51,3 +51,6 @@ Mod by Petunindan
 Beta testers: Z@C
 Website: grandbiz.ru
 
+## License
+Mod are open and can be freely modified and distributed. Just mention petunindan somewhere in your ReadMe :)
+
