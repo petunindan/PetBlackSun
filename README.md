@@ -44,7 +44,7 @@ Maps are edited with Petroglyph Editor.
 ## Release history
 First release: 10 April 2010  
 V1.3: 18 February 2011  
-Final version: 24 MArch 2013
+Final version: 24 March 2013
 
 ## Credits:
 Mod by Petunindan  
