@@ -32,8 +32,6 @@ Pirates Base
 Pirate Asteroid Base
 
 ### Heroes
-I decided to add some heroes to the pirates, because of the huge imbalance:  
-
 Fleet commander Ackbar (Space character)  
 Assassin Boba Fett (Space and ground hero)  
 Bounty hunter (requires Palace Hutt)
@@ -53,5 +51,5 @@ Beta testers: Z@C
 Website: grandbiz.ru
 
 ## License
-Mod are open and can be freely modified and distributed. Just mention petunindan somewhere in your ReadMe :)
+Mod are open and can be freely modified and distributed. Just mention Petunindan somewhere in your ReadMe :)
 
